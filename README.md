@@ -4,6 +4,8 @@ title: About
 
 This site was TRYING to be clean and beautiful, but it really is not...
 
+Apparently, my semi-copy of RomanZ's markdown-lesson [There-too](https://www.romanzolotarev.com/markdown.html) was unsuccessful...  sigh...
+
 ---
 
 # Here
